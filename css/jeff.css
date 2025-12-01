@@ -1,0 +1,130 @@
+body {
+background-color:  #141414;  /*  #141414  dark slate background  */
+font-family: Verdana, Geneva, Arial, sans-serif;
+font-size: medium;
+line-height: 140%;
+color:  #0B1136;  /* #0B1136  navy blue */
+}
+h1, h2, h3 {
+font-weight:  bold;
+}
+h1 {
+font-size:  170%;
+}
+h2 {
+font-size:  120%;
+}
+h3 {
+font-size:  100%;
+}
+.italic {
+font-style:  italic;
+}
+.bold {
+font-weight:  bold;
+}
+.bold-italic {
+font-weight: bold;
+font-style:  italic;
+}
+.right {
+text-align: right;
+}
+.center {
+text-align: center;
+}
+a:link {
+color: #0B1136;
+font-weight: bold;
+text-decoration:  none;  
+}
+a:visited {
+color: #0B1136;
+font-weight: bold;
+text-decoration:  none;
+}
+a:hover {
+color: #FF6600;  /*  #FF6600  orange  link color  */
+}
+#buttons a:hover {
+color: #FF6600;  /*  #FF6600  orange  link color  */
+border:  4px outset #FF6600;  /*  #FF6600  orange  link color  */
+padding:  2px;
+}
+img a:hover {
+color: #FF6600;  /*  #FF6600  orange  link color  */
+border:  3px outset #FF6600;  /*  #FF6600  orange  link color  */
+padding:  2px;
+}
+img {
+border:  none;
+}
+#buttons {
+background-color:  #E4E6F2; /* #E4E6F2  light blue */
+width: 640px;
+margin-left: auto;
+margin-right: auto;
+margin-top:  10px;
+margin-bottom:  10px;
+padding-top:  10px;
+padding-bottom:  10px;
+border:  2px solid #FF6600;  /*  #FF6600  orange  link color  */
+}
+#buttons table {
+margin-left: auto;
+margin-right: auto;
+}
+#buttons td {
+text-align: center;
+width:  150px;
+padding-top:  4px;
+padding-bottom:  4px;
+}
+#librarysearch {
+background-color:  #E4E6F2; /* #E4E6F2  light blue */
+width: 244px;
+margin-left: auto;
+margin-right: auto;
+margin-top:  10px;
+margin-bottom:  10px;
+padding:  10px;
+border:  2px solid #FF6600;  /*  #FF6600  orange  link color  */
+}
+#librarysearch table {
+margin-left: auto;
+margin-right: auto;
+}
+#librarysearch td {
+text-align: center;
+width:  242;
+}
+#links {
+background-color:  #FFFFFF;  /*  #FFFFFF  white  */
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+margin-top:  10px;
+margin-bottom:  10px;
+padding-top:  10px;
+padding-bottom:  10px;
+text-align: center;
+border:  2px solid #FF6600;  /*  #FF6600  orange  link color  */
+}
+caption {
+font-size: 200%;
+font-weight: bold;
+font-style: italic;
+padding-top: 10px;
+padding-bottom:  40px;
+}
+#links td {
+text-align: center;
+border: none; 
+padding: 10;
+width:  300px;
+height:  40px;
+}
+#tv-links {
+background-color:  #FFFFFF;  /*  #FFFFFF  white  */
+text-align: center;
+}
